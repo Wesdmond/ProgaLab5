@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <Dragon>
+        <id>1</id>
+        <name>Michel</name>
+        <coordinates>
+            <x>1</x>
+            <y>1</y>
+        </coordinates>
+        <age>14</age>
+        <color>RED</color>
+        <dragonType>AIR</dragonType>
+        <dragonCharacter>CHAOTIC</dragonCharacter>
+        <dragonHead>
+            <eyes>2</eyes>
+        </dragonHead>
+        <creationDate>18 мая 2023 г., 08:44</creationDate>
+    </Dragon>
+</root>
